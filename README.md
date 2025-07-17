@@ -7,8 +7,8 @@ I am sunischit, I am a passionate web developer. I have been learning programmin
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like coding, gaming, anime
 
-
 I recently made my own implementation of git using javaScript. Its a cli tool so I got to learn about handling flags, inputs from stdin. I learned a lot about how git stores data and makes it basically unlosable once its committed.
 
 I am currently in lookout for a job as a developer. I would prefer a backend developer position ideally in go or node, but I am open for any developer position, So if you are hiring and see me as a fit for your company please do send me a mail at dahalsunischit@gmail.com
 
+<img width="1014" height="5047" alt="image" src="https://github.com/user-attachments/assets/b2b05cc5-4638-420d-b702-63e631457342" />
