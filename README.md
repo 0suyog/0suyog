@@ -11,4 +11,4 @@ I recently made my own implementation of git using javaScript. Its a cli tool so
 
 I am currently in lookout for a job as a developer. I would prefer a backend developer position ideally in go or node, but I am open for any developer position, So if you are hiring and see me as a fit for your company please do send me a mail at dahalsunischit@gmail.com
 
-<img width="1014" height="5047" alt="image" src="https://github.com/user-attachments/assets/b2b05cc5-4638-420d-b702-63e631457342" />
+[![Suyog's GitHub stats](https://github-readme-stats.vercel.app/api?username=0suyog)](https://github.com/anuraghazra/github-readme-stats)
