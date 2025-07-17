@@ -3,6 +3,8 @@ I am sunischit, I am a passionate web developer. I have been learning programmin
 
 I recently made my own implementation of git using javaScript. Its a cli tool so I got to learn about handling flags, inputs from stdin. I learned a lot about how git stores data and makes it basically unlosable once its committed.
 
+I am currently in lookout for a job as a developer. I would prefer a backend developer position ideally in go or node, but I am open for any developer position, So if you are hiring and see me as a fit for your company please do send me a mail at dahalsunischit@gmail.com
+
 - 🌱 I’m currently learning Go
 - 💬 Ask me about git and i can tell you a lot about it
 - 📫 How to reach me: dahalsunischit@gmail.com
